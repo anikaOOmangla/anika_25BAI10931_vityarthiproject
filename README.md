@@ -38,7 +38,8 @@ Follow on-screen instructions to input health data or quit the program.
 
 Testing Instructions
 Run the program and enter numeric heart rate and temperature values when prompted.
-Try entering values below or above normal ranges (Heart Rate: 60-100 bpm, Temperature: 36.1-37.2°C) to test alert generation.
+Try entering values below or above normal ranges (Heart Rate: 60-100 bpm, Temperature: 36.1-37.2°C) to test alert generation.<img width="726" height="378" alt="Screenshot 2025-11-22 195505" src="https://github.com/user-attachments/assets/47557a21-1b2a-4562-adb5-bf20fbe6ba44" />
+
 Enter non-numeric values to check error handling.
 
 Exit by typing 'q' to quit and view the full health monitoring log.
