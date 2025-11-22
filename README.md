@@ -1,6 +1,7 @@
 # anika_25BAI10931_vityarthiproject
 Health Monitoring and Alert System
 
+
 Overview
 This project is a console-based Health Monitoring and Alert System that accepts user inputs for heart rate and body temperature, validates them against predefined healthy thresholds, and generates alerts if readings are out of range. The system logs all inputs and alerts for later review.
 The project is structured in a modular design with separate components for input handling, health checking, data logging, reporting, and monitoring control, demonstrating basic principles of object-oriented programming in Python.
